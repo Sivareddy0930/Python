@@ -1,7 +1,7 @@
 # In the case of Call by Value, when we pass the value of the parameter during the calling of the function, it copies them to the function's actual local argument.
 # In the case of Call by Reference, when we pass the parameter's location reference/address, it copies and assigns them to the function's local argument.
 
-# python supports call by references.
+# So, while Python is not strictly "pass by value" or "pass by reference," understanding the mutability of objects is crucial for predicting how changes inside a function may affect variables outside of it.
 
 
 # Mutable Types:

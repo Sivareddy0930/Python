@@ -1,6 +1,10 @@
 # Lambda Functions in Python are anonymous functions, implying they don't have a name.
 # We can also use the lambda keyword in Python to define an unnamed function.
 
+# if you want to use function only once that consist of single statement, and it doesn't have any name then we go for lambda function.
+
+
+
 # Syntax
 # lambda arugments:expression
 

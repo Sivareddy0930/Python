@@ -6,11 +6,13 @@ print(fun1(10,30))
 print(fun1(1,2,3))
 
 print("---------------------------------------")
-# Keyword Arguments
+# position Arugments
 def fun2(a,b):
     return a,b
 print(fun2(10,30))
 
+print("------------------------------------------")
+# Keyword Arguments
 # Calling function and passing arguments using keyword
 print(fun2(b=1,a=2))
 

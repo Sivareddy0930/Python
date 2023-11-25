@@ -5,12 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb681e53-b0a2-4411-9d56-0bc033d0f36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/AdvanceDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInputAndCommandLineInput/CommandLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInputAndCommandLineInput/UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInputAndCommandLineInput/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ArraysCRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SearchingInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor/Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor/ConstructorOverloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor/DefaultConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor/NoArgConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/PassingListToFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InnerClass/InnerClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InnerClass/InnerClass2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InnerClass/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/AllMethodsInClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/InstanceMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/classMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/staticMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/ConstructorInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/ConstructorInheritance2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/ConstructorInheritance3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/ConstructorWithMultiLevelInheritance.py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/ConstructorWithMultipleInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/ConstructorInheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/MultiLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/Multiple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/SingleLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/isinstanceMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Inheritance/issubclassMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/GlobalVariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__name__/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/FactorialWithRecursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/FibonacciSeries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/FunctionArugments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/FunctionArugments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/callByReference.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/callByReference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/createFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/createFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaFunction/lambdaFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaFunction/lambdaFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +91,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Python/Oops/Inheritance"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\Oops\Inheritance" />
+      <recent name="E:\Python\Oops\Inheritance\ConstructorInheritance" />
+      <recent name="E:\Python\InnerClass" />
+      <recent name="E:\Python\Methods" />
+      <recent name="E:\Python\Class" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python" />
+      <recent name="E:\Python\Constructor" />
+      <recent name="E:\Python\Variables" />
       <recent name="E:\Python\List" />
     </key>
   </component>
