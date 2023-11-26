@@ -2,6 +2,9 @@
 # similarly, if there is an object that is ide and it has an method execute() thats it.we not consed about which class object it is,
 # instead we consed about it should have the method execute() .
 
+
+
+#  "duck typing," which allows objects to be used based on their behavior rather than their type or class
 class pycharm:
     def execute(self):
         print("compiling")
