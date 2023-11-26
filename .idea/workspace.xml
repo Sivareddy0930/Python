@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb681e53-b0a2-4411-9d56-0bc033d0f36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/DuckTyping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/PolymorphismInClassMethods .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/PolymorphismWithClassInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Abstraction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/MethodOverLoading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/MethodOverriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/MethodResolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/MethodResolution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/MethodResolution2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/OperatorOverLoading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/Polymorphism/PolymorphismWithClassInheritance2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oops/Polymorphism/DuckTyping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/Polymorphism/DuckTyping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oops/Polymorphism/PolymorphismWithClassInheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/Polymorphism/PolymorphismWithClassInheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Python/Oops/Polymorphism"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Python/Oops/Polymorphism&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Python\Oops\Polymorphism" />

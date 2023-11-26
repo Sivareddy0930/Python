@@ -28,6 +28,8 @@ class Bus(Vehicle):
     def move(self):
         print("Bus is Moving")
 
+
+
 c=Car("tata",4)
 b=Bike("Bajaj",2)
 bus=Bus("Mahindra",6)
@@ -38,5 +40,7 @@ b.move()
 print(b.Brand,b.wheels)
 bus.move()
 print(bus.Brand,bus.wheels)
+
+
 
 
