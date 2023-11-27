@@ -60,7 +60,7 @@ print(set)
 frozenset=frozenset({"siva",1,1,1,4.4,True})
 print(frozenset)
 
-# Booleantype
+# Boolean type
 
 Bool=True
 print(Bool)
