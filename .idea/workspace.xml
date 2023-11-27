@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb681e53-b0a2-4411-9d56-0bc033d0f36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSV/csvReader/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/ErrorHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/ErrorHandling1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/ExceptionInExcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/ExceptionInFinally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/NestedException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/AppendFile/Append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/AppendFile/AppendAndRead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/AppendFile/Data1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/AppendFile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/AppendFile/data2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/MyImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/ReadBinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/data1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/readAndWrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/readFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/ReadingFile/readFile2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/WriteFile/WriteAndRead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/WriteFile/WriteBinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/WriteFile/WriteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/WriteFile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/AccessingVariables/AccessingParentClassInstanceVariablesInChild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/AccessingVariables/AccessingParentClassVariablesInChild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/AccessingVariables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/dump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/dumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/loads.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops/Encapulation/EncapulationWithProtected.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/Encapulation/EncapulationWithProtected.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,16 +47,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Python/ErrorHandling"
+    "last_opened_file_path": "E:/Python/JSON"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\JSON" />
       <recent name="E:\Python\ErrorHandling" />
       <recent name="E:\Python\FileHandling\ReadingFile" />
       <recent name="E:\Python\FileHandling\WriteFile" />
       <recent name="E:\Python\Oops\AccessingVariables" />
-      <recent name="E:\Python\Oops\Encapulation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python" />
