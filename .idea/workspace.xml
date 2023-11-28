@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb681e53-b0a2-4411-9d56-0bc033d0f36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JSON/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/dumps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/loads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvReader/DictReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvReader/Read_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvWriter/DictWriter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvWriter/WriteCsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvWriter/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +47,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Python/JSON"
+    "last_opened_file_path": "E:/Python/CSV"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\CSV" />
       <recent name="E:\Python\JSON" />
       <recent name="E:\Python\ErrorHandling" />
       <recent name="E:\Python\FileHandling\ReadingFile" />
       <recent name="E:\Python\FileHandling\WriteFile" />
-      <recent name="E:\Python\Oops\AccessingVariables" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python" />
@@ -75,6 +75,9 @@
       <updated>1700549010248</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
