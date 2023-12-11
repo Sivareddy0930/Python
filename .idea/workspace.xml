@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb681e53-b0a2-4411-9d56-0bc033d0f36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MysqlConnector/MysqlConnection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MysqlConnector/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MysqlConnector/createTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AzureData/GetDataFromAzure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AzureData/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
